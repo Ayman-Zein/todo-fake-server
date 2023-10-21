@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "title": "Study javascript",
+      "isComplete": true,
+      "id": 3
+    },
+    {
+      "title": "Organize office",
+      "isComplete": true,
+      "id": 4
+    },
+    {
+      "title": "Buy eggs",
+      "isComplete": false,
+      "id": 6
+    }
+  ]
+}
